@@ -12,8 +12,6 @@ Yohann Monnier - Internethic - http://www.internethic.com
 Dependencies
 ------------
 
-Works only if you have installed [redmine_webservice plugin](http://github.com/YohannsMonnier/redmine_webservice/tree/master)  on your redmine server.
-
 You have to set up a MusicPlayerDaemon Server before using this plugin.
 MPC for rbot is only an irc client.
 
